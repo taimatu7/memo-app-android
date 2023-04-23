@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">memo-app</string>
+    <string name="app_name">メモアプリ</string>
+
+    <string name="menu_write_memo">メモを書く</string>
+    <string name="menu_display_memo">メモを見る</string>
+    <string name="menu_setting">設定</string>
 </resources>
